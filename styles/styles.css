@@ -1,0 +1,28 @@
+* {
+	-webkit-border-radius: 0 !important;
+	-moz-border-radius: 0 !important;
+	border-radius: 0 !important;
+}
+
+html{
+	height: 100%;
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+}
+
+.nav, .navbar{
+	margin-bottom: 0px;
+}
+
+#conteiner{
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	border-left: 1px solid #33151b;
+	border-right: 1px solid #33151b;
+	padding: 50px;
+}
