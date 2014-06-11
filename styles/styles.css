@@ -26,3 +26,7 @@ body{
 	border-right: 1px solid #33151b;
 	padding: 50px;
 }
+
+,panel{
+	background: none !important;
+}
